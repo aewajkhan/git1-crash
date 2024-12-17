@@ -23,3 +23,6 @@ function Newadd(){
 }
 
 Newadd()
+
+
+console.log("b ADDED")
