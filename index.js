@@ -16,3 +16,10 @@ function add(){
 }
 
 add()
+
+
+function Newadd(){
+    console.log("function new added")
+}
+
+Newadd()
